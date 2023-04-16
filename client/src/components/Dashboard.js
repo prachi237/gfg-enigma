@@ -16,6 +16,7 @@ const Dashboard = ({mediChain, token, account, ipfs}) => {
     return (
         <div className="dash">
             {token==="1" ? <Patient ipfs={ipfs} ethValue={ethValue} mediChain={mediChain} account={account} /> : token==="2" ? <Doctor ipfs={ipfs} mediChain={mediChain} account={account} /> : token==="3" ? <Insurer ipfs={ipfs} ethValue={ethValue} mediChain={mediChain} account={account} /> : <></>}
+            
         </div>
     )
 }
