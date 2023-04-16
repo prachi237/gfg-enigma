@@ -6,8 +6,13 @@
   <h2 align="center">MediChain</h2>
 
   <p align="center">
+
+
     Revolutionizing healthcare data management: blockchain-based medical record storage for patients and insurance companies
+  
+  https://user-images.githubusercontent.com/72700861/232312600-4887328f-8967-4ab6-8243-d73f472c44c0.mp4
   </p>
+
 </p>
 
 
@@ -55,7 +60,7 @@ Our project Medicahain seeks to address these challenges by leveraging the power
 
 ### 🛠️ Built With
 
-<img src="https://github.com/prachi237/gfg-enigma/blob/master/Images/img1.jpeg" width="700" height="500" alt="Prometheus Config" />
+<img src="https://github.com/prachi237/gfg-enigma/blob/master/Images/img1.jpeg" width="700"  alt="Prometheus Config" />
 Following technologies and libraries are used for the development of this project.
 
 - [React](https://reactjs.org/)
