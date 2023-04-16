@@ -9,7 +9,8 @@
     Revolutionizing healthcare data management: blockchain-based medical record storage for patients and insurance companies
   </p>
 </p>
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/iVzx7bdQrNs)
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://youtu.be/iVzx7bdQrNs "Now in Android: 55")
+
 <!-- TABLE OF CONTENTS -->
 <details open="open">
   <summary>Table of Contents</summary>
