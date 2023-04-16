@@ -45,7 +45,7 @@ The data privacy of patients is essential because it involves sensitive personal
 ## ℹ️ About The Project
 
 Our project Medicahain seeks to address these challenges by leveraging the power of blockchain to create a secure, decentralized platform for storing and sharing healthcare data. By doing so, we hope to empower patients and Insurance providers, to make more informed decisions, improve outcomes, and advance the field of healthcare as a whole.
-
+https://user-images.githubusercontent.com/50160354/vid1.mp4
 https://github.com/prachi237/gfg-enigma/blob/master/Images/vid1.mp4
 ## ℹ️ Future Prospects
 1. We will be implementing insurance policy as ERC-721 Standard (i.e Non-Fungible Tokens), so as to specify the uniqueness and ownership of each insurance policy.
