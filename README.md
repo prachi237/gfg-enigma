@@ -16,11 +16,7 @@
   <ol>
   <li>
       <a href="#getting-started">Problem Statement</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#running-the-project">Running the project</a></li>
-      </ul>
-    </li>
+  </li>
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
