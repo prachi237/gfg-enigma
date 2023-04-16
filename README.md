@@ -32,11 +32,7 @@
     </li>
      <li>
       <a href="#Future Prospective">Future Prospective</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#running-the-project">Running the project</a></li>
-      </ul>
-    </li>
+     </li>
     <!-- <li><a href="#relevant-screenshots">Relevant Screenshots</a></li> -->
   </ol>
 </details>
