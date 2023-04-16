@@ -9,7 +9,7 @@
     Revolutionizing healthcare data management: blockchain-based medical record storage for patients and insurance companies
   </p>
 </p>
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://youtu.be/iVzx7bdQrNs "Now in Android: 55")
+
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -46,7 +46,7 @@ The data privacy of patients is essential because it involves sensitive personal
 ## ℹ️ About The Project
 
 Our project Medicahain seeks to address these challenges by leveraging the power of blockchain to create a secure, decentralized platform for storing and sharing healthcare data. By doing so, we hope to empower patients and Insurance providers, to make more informed decisions, improve outcomes, and advance the field of healthcare as a whole.
-
+https://user-images.githubusercontent.com/79893783/200156342-08952f20-8ac7-459b-9c41-2fbfa1efdcaa.mp4
 ## ℹ️ Future Prospects
 1. We will be implementing insurance policy as ERC-721 Standard (i.e Non-Fungible Tokens), so as to specify the uniqueness and ownership of each insurance policy.
 2. We will be giving patients the Flexibility to buy health insurance policy according to their preference instead of defined policies by the insurance provider.
@@ -55,6 +55,7 @@ Our project Medicahain seeks to address these challenges by leveraging the power
 
 ### 🛠️ Built With
 
+<img src="https://github.com/prachi237/gfg-enigma/blob/master/Images/img1.jpeg" alt="Prometheus Config" />
 Following technologies and libraries are used for the development of this project.
 
 - [React](https://reactjs.org/)
