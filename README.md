@@ -46,6 +46,12 @@ The data privacy of patients is essential because it involves sensitive personal
 
 Our project Medicahain seeks to address these challenges by leveraging the power of blockchain to create a secure, decentralized platform for storing and sharing healthcare data. By doing so, we hope to empower patients and Insurance providers, to make more informed decisions, improve outcomes, and advance the field of healthcare as a whole.
 
+https://user-images.githubusercontent.com/50160354/171215281-57e010d5-18ea-41a2-8b77-a380014bb518.mp4
+## ℹ️ Future Prospects
+1. We will be implementing insurance policy as ERC-721 Standard (i.e Non-Fungible Tokens), so as to specify the uniqueness and ownership of each insurance policy.
+2. We will be giving patients the Flexibility to buy health insurance policy according to their preference instead of defined policies by the insurance provider.
+3. We will predict policy annual premium amount using Machine Learning techniquesbased on factors like patient's age, location, etc.
+
 
 ### 🛠️ Built With
 
@@ -100,11 +106,6 @@ npm run client:start
 
 8. You're ready to go. Visit [http://localhost:3000/](http://localhost:3000/) to check out dopeShop
 
-
-## ℹ️ Future Prospects
-1. We will be implementing insurance policy as ERC-721 Standard (i.e Non-Fungible Tokens), so as to specify the uniqueness and ownership of each insurance policy.
-2. We will be giving patients the Flexibility to buy health insurance policy according to their preference instead of defined policies by the insurance provider.
-3. We will predict policy annual premium amount using Machine Learning techniquesbased on factors like patient's age, location, etc.
 
 
 
