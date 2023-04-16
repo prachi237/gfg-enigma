@@ -31,7 +31,7 @@
       </ul>
     </li>
      <li>
-      <a href="#Future Prospective">Future Prospective</a>
+      <a href="#Future Prospective">Future Prospects</a>
      </li>
     <!-- <li><a href="#relevant-screenshots">Relevant Screenshots</a></li> -->
   </ol>
@@ -101,12 +101,14 @@ npm run client:start
 8. You're ready to go. Visit [http://localhost:3000/](http://localhost:3000/) to check out dopeShop
 
 
-## ℹ️ Future Prospective
+## ℹ️ Future Prospects
+1. We will be implementing insurance policy as ERC-721 Standard (i.e Non-Fungible Tokens), so as to specify the uniqueness and ownership of each insurance policy.
+2. We will be giving patients the Flexibility to buy health insurance policy according to their preference instead of defined policies by the insurance provider.
+3. We will predict policy annual premium amount using Machine Learning techniquesbased on factors like patient's age, location, etc.
 
 
 
 <!-- ### 📉 Relevant Screenshots:
-
 1. _Prometheus up & running_
    <img src="images/prom.png" alt="Prometheus Config" />
 
